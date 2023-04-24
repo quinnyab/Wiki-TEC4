@@ -1,2 +1,3 @@
-# Wiki-TEC4
-Mijn wiki voor Tech 4
+# Wiki for Blok Tech | Quinny Breinburg | TEC4 |
+
+yuh
